@@ -1,20 +1,13 @@
 {
-  "short_name": "DARK-EYE",
-  "name": "D-EYE Web Docs",
-  "icons": [
-    {
-      "src": "/favicon-192x192.png",
-      "sizes": "192x192",
-      "type": "image/png"
-    },
-    {
-      "src": "/favicon-512x512.png",
-      "sizes": "512x512",
-      "type": "image/png"
-    }
-  ],
-  "start_url": ".",
-  "display": "standalone",
-  "theme_color": "blue",
-  "background_color": "white"
+  "name": "dark-eye-mini",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@hono/node-server": "^2.0.10",
+    "@whiskeysockets/baileys": "^6.7.5",
+    "hono": "^4.12.30"
+  }
 }
