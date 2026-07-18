@@ -1,0 +1,30 @@
+{
+  "prefix": "!",
+  "owner": "263783546271",
+  "botName": "DARK-EYE",
+  "sessionName": "darkeye-session",
+  "antiLinkMode": "off",
+  "antiBotMode": "off",
+  "antiDelete": false,
+
+  "apis": {
+    "openai_key": "sk-YOUR_OPENAI_KEY_HERE",
+    "gemini_key": "YOUR_GEMINI_KEY_HERE",
+    "claude_key": "sk-ant-YOUR_CLAUDE_KEY_HERE",
+    "remove_bg_key": "YOUR_REMOVE_BG_KEY_HERE",
+    "leonardo_key": "YOUR_LEONARDO_AI_KEY_HERE",
+    "suno_key": "YOUR_SUNO_KEY_HERE",
+    "perplexity_key": "pplx-YOUR_KEY_HERE",
+    "deepseek_key": "sk-YOUR_DEEPSEEK_KEY_HERE"
+  },
+
+  "voice": {
+    "default_engine": "gemini",
+    "enabled": false
+  },
+
+  "github": {
+    "repo": "https://github.com/2005101/DARK-EYE-MINI",
+    "token": "ghp_YOUR_GITHUB_TOKEN_HERE"
+  }
+}

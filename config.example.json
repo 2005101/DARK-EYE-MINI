@@ -1,0 +1,9 @@
+{
+  "prefix": "!",
+  "owner": "YOUR_NUMBER",
+  "botName": "DARK-EYE",
+  "apis": {
+    "openai_key": "",
+    "gemini_key": ""
+  }
+}
